@@ -1929,7 +1929,7 @@ pre code {
     padding-top: 2rem;
   }
   .portfolio-item{
-    width: 400px;
+    max-width: 400px;
   }
   .img-fluid{
   border-radius: 5px;
@@ -1951,7 +1951,7 @@ pre code {
     padding-top: 2rem;
   }
   .portfolio-item{
-    width: 400px;
+    max-width: 400px;
   }
   .img-fluid{
   border-radius: 5px;
