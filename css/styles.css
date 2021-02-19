@@ -1948,6 +1948,7 @@ pre code {
   }
   .portfolio-item{
     max-width: 400px;
+    margin: 0 auto;
   }
   .img-fluid{
   border-radius: 5px;
@@ -1969,7 +1970,8 @@ pre code {
     padding-top: 2rem;
   }
   .portfolio-item{
-    max-width: 400px;
+   max-width: 400px;
+    margin: 0 auto;
   }
   .img-fluid{
   border-radius: 5px;
