@@ -1953,7 +1953,10 @@ pre code {
   .img-fluid{
   border-radius: 5px;
   }
-
+  #portfolioModal1{
+    max-width: 96%;
+    margin: 0 auto;
+  }
 }
 @media (max-width: 767.98px) {
   .table-responsive-md {
@@ -1976,7 +1979,10 @@ pre code {
   .img-fluid{
   border-radius: 5px;
   }
-
+  #portfolioModal1{
+    max-width: 96%;
+    margin: 0 auto;
+  }
 
 }
 @media (max-width: 991.98px) {
